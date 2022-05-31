@@ -1,0 +1,190 @@
+Sample	Type	Subtype	Color	Color2	MeanMethylation
+BP_venous_blood_S006XE53_mature_eosinophil_DiseaseFree	Myeloid	Eosinophil	red	'#FF7D7D'	0.804301
+BP_venous_blood_S00V6553_mature_eosinophil_DiseaseFree	Myeloid	Eosinophil	red	'#FF7D7D'	0.770109
+BP_cord_blood_C00184A3bs_mature_neutrophil_DiseaseFree	Myeloid	Neutrophil	red	'#FF0000'	0.850635
+BP_bone_marrow_S00JJRA1_neutrophilic_myelocyte_DiseaseFree	Myeloid	Neutrophil	red	'#FF0000'	0.84772
+BP_bone_marrow_S00VCUA1_neutrophilic_myelocyte_DiseaseFree	Myeloid	Neutrophil	red	'#FF0000'	0.844594
+BP_venous_blood_S00K5EA1_mature_neutrophil_DiseaseFree	Myeloid	Neutrophil	red	'#FF0000'	0.843233
+BP_venous_blood_S00FXFA1_mature_neutrophil_DiseaseFree	Myeloid	Neutrophil	red	'#FF0000'	0.830788
+BP_bone_marrow_S00JE0A1_neutrophilic_myelocyte_DiseaseFree	Myeloid	Neutrophil	red	'#FF0000'	0.826688
+BP_venous_blood_S00FWHA1_mature_neutrophil_DiseaseFree	Myeloid	Neutrophil	red	'#FF0000'	0.826007
+BP_bone_marrow_S00VFOA1_segmented_neutrophil_of_bone_marrow_DiseaseFree	Myeloid	Neutrophil	red	'#FF0000'	0.826654
+BP_venous_blood_S00TC1A1_mature_neutrophil_DiseaseFree	Myeloid	Neutrophil	red	'#FF0000'	0.826343
+BP_cord_blood_C004GD51_mature_neutrophil_DiseaseFree	Myeloid	Neutrophil	red	'#FF0000'	0.823119
+BP_venous_blood_C001UYA1bs_mature_neutrophil_DiseaseFree	Myeloid	Neutrophil	red	'#FF0000'	0.819248
+BP_bone_marrow_S00JMLA1_band_form_neutrophil_DiseaseFree	Myeloid	Neutrophil	red	'#FF0000'	0.821038
+BP_bone_marrow_S00JNJA1_segmented_neutrophil_of_bone_marrow_DiseaseFree	Myeloid	Neutrophil	red	'#FF0000'	0.821877
+BP_bone_marrow_S00VEQA1_band_form_neutrophil_DiseaseFree	Myeloid	Neutrophil	red	'#FF0000'	0.819555
+BP_venous_blood_S00K7AA1_mature_neutrophil_DiseaseFree	Myeloid	Neutrophil	red	'#FF0000'	0.817478
+BP_bone_marrow_S00JKPA1_neutrophilic_metamyelocyte_DiseaseFree	Myeloid	Neutrophil	red	'#FF0000'	0.813399
+BP_bone_marrow_S00JGXA1_band_form_neutrophil_DiseaseFree	Myeloid	Neutrophil	red	'#FF0000'	0.814558
+BP_venous_blood_C0011IA3bs_mature_neutrophil_DiseaseFree	Myeloid	Neutrophil	red	'#FF0000'	0.812861
+BP_bone_marrow_S00JHVA1_segmented_neutrophil_of_bone_marrow_DiseaseFree	Myeloid	Neutrophil	red	'#FF0000'	0.810764
+BP_venous_blood_S00K88A1_mature_neutrophil_DiseaseFree	Myeloid	Neutrophil	red	'#FF0000'	0.80866
+BP_bone_marrow_S00JFZA1_neutrophilic_metamyelocyte_DiseaseFree	Myeloid	Neutrophil	red	'#FF0000'	0.800737
+BP_venous_blood_C000S5A2bs_mature_neutrophil_DiseaseFree	Myeloid	Neutrophil	red	'#FF0000'	0.797095
+BP_bone_marrow_S00VDSA1_neutrophilic_metamyelocyte_DiseaseFree	Myeloid	Neutrophil	red	'#FF0000'	0.817713
+BP_venous_blood_C0010KA1bs_mature_neutrophil_DiseaseFree	Myeloid	Neutrophil	red	'#FF0000'	0.797163
+BP_cord_blood_S00CP651_conventional_dendritic_cell_DiseaseFree	Myeloid	DendriticCell	red	'#A30D0D'	0.853478
+BP_cord_blood_S00D7151_conventional_dendritic_cell_DiseaseFree	Myeloid	DendriticCell	red	'#A30D0D'	0.849065
+BP_venous_blood_S00U0LA1_mature_conventional_dendritic_cell_DiseaseFree	Myeloid	DendriticCell	red	'#A30D0D'	0.826014
+BP_venous_blood_S00TWZA1_immature_conventional_dendritic_cell_DiseaseFree	Myeloid	DendriticCell	red	'#A30D0D'	0.823059
+BP_venous_blood_S00TYVA1_mature_conventional_dendritic_cell_DiseaseFree	Myeloid	DendriticCell	red	'#A30D0D'	0.820714
+BP_venous_blood_S00TV0A1_immature_conventional_dendritic_cell_DiseaseFree	Myeloid	DendriticCell	red	'#A30D0D'	0.818447
+BP_venous_blood_S00TU2A1_immature_conventional_dendritic_cell_DiseaseFree	Myeloid	DendriticCell	red	'#A30D0D'	0.806935
+BP_venous_blood_S00TXXA1_mature_conventional_dendritic_cell_DiseaseFree	Myeloid	DendriticCell	red	'#A30D0D'	0.800759
+BP_venous_blood_S01BFMA1_monocyte_DiseaseFree	Myeloid	Monocyte	red	'#602E01'	0.841588
+BP_cord_blood_C005PS51_CD14positive_CD16negative_classical_monocyte_DiseaseFree	Myeloid	Monocyte	red	'#602E01'	0.837966
+BP_venous_blood_S01BHIA1_monocyte_DiseaseFree	Myeloid	Monocyte	red	'#602E01'	0.838547
+BP_venous_blood_S01BEOA1_monocyte_DiseaseFree	Myeloid	Monocyte	red	'#602E01'	0.833164
+BP_venous_blood_S01B47A1_monocyte_DiseaseFree	Myeloid	Monocyte	red	'#602E01'	0.832406
+BP_venous_blood_S01E03A1_monocyte_DiseaseFree	Myeloid	Monocyte	red	'#602E01'	0.816659
+BP_venous_blood_S01BBUA1_monocyte_DiseaseFree	Myeloid	Monocyte	red	'#602E01'	0.831501
+BP_venous_blood_S01BGKA1_monocyte_DiseaseFree	Myeloid	Monocyte	red	'#602E01'	0.831713
+BP_venous_blood_S01BDQA1_monocyte_DiseaseFree	Myeloid	Monocyte	red	'#602E01'	0.831316
+BP_venous_blood_S01B55A1_monocyte_DiseaseFree	Myeloid	Monocyte	red	'#602E01'	0.831176
+BP_venous_blood_S00V2DN1_monocyte_DiseaseFree	Myeloid	Monocyte	red	'#602E01'	0.83311
+BP_venous_blood_S01B9YA1_monocyte_DiseaseFree	Myeloid	Monocyte	red	'#602E01'	0.830773
+BP_venous_blood_S01BCSA1_monocyte_DiseaseFree	Myeloid	Monocyte	red	'#602E01'	0.830663
+BP_venous_blood_S01B63A1_monocyte_DiseaseFree	Myeloid	Monocyte	red	'#602E01'	0.829716
+BP_venous_blood_S01B71A1_monocyte_DiseaseFree	Myeloid	Monocyte	red	'#602E01'	0.82979
+BP_cord_blood_S000RD54_CD14positive_CD16negative_classical_monocyte_DiseaseFree	Myeloid	Monocyte	red	'#602E01'	0.825929
+BP_venous_blood_C001UYA3bs_CD14positive_CD16negative_classical_monocyte_DiseaseFree	Myeloid	Monocyte	red	'#602E01'	0.825657
+BP_venous_blood_S01BAWA1_monocyte_DiseaseFree	Myeloid	Monocyte	red	'#602E01'	0.823966
+BP_venous_blood_C004SQ51_CD14positive_CD16negative_classical_monocyte_DiseaseFree	Myeloid	Monocyte	red	'#602E01'	0.825114
+BP_venous_blood_S01MAPA1_monocyte_DiseaseFree	Myeloid	Monocyte	red	'#602E01'	0.823023
+BP_venous_blood_S00V3BN1_macrophage_DiseaseFree	Myeloid	Macrophage	red	'#A37857'	0.844673
+BP_venous_blood_S00BS451_alternatively_activated_macrophage_DiseaseFree	Myeloid	Macrophage	red	'#A37857'	0.8432
+BP_venous_blood_C000S5A1bs_CD14positive_CD16negative_classical_monocyte_DiseaseFree	Myeloid	Monocyte	red	'#602E01'	0.816204
+BP_venous_blood_C0010KA2bs_CD14positive_CD16negative_classical_monocyte_DiseaseFree	Myeloid	Monocyte	red	'#602E01'	0.798625
+BP_cord_blood_S00C1H51_alternatively_activated_macrophage_DiseaseFree	Myeloid	Macrophage	red	'#A37857'	0.849246
+BP_venous_blood_S00V49N1_macrophage_DiseaseFree	Myeloid	Macrophage	red	'#A37857'	0.841895
+BP_venous_blood_C005VG51_macrophage_DiseaseFree	Myeloid	Macrophage	red	'#A37857'	0.840906
+BP_venous_blood_S001MJ51_inflammatory_macrophage_DiseaseFree	Myeloid	Macrophage	red	'#A37857'	0.824918
+BP_cord_blood_S00E8W51_alternatively_activated_macrophage_DiseaseFree	Myeloid	Macrophage	red	'#A37857'	0.817037
+BP_cord_blood_S00DVR51_macrophage_DiseaseFree	Myeloid	Macrophage	red	'#A37857'	0.819546
+BP_venous_blood_S0022I53_inflammatory_macrophage_DiseaseFree	Myeloid	Macrophage	red	'#A37857'	0.833313
+BP_venous_blood_S001S753_inflammatory_macrophage_DiseaseFree	Myeloid	Macrophage	red	'#A37857'	0.830974
+BP_venous_blood_S0022I51_macrophage_DiseaseFree	Myeloid	Macrophage	red	'#A37857'	0.827624
+BP_venous_blood_S001S751_macrophage_DiseaseFree	Myeloid	Macrophage	red	'#A37857'	0.826572
+BP_venous_blood_S00H6O51_inflammatory_macrophage_DiseaseFree	Myeloid	Macrophage	red	'#A37857'	0.825287
+BP_venous_blood_S0039051_macrophage_DiseaseFree	Myeloid	Macrophage	red	'#A37857'	0.820288
+BP_venous_blood_S0062252_alternatively_activated_macrophage_DiseaseFree	Myeloid	Macrophage	red	'#A37857'	0.807531
+BP_venous_blood_S006VI53_alternatively_activated_macrophage_DiseaseFree	Myeloid	Macrophage	red	'#A37857'	0.785585
+BP_cord_blood_S0018A52_inflammatory_macrophage_DiseaseFree	Myeloid	Macrophage	red	'#A37857'	0.839683
+BP_cord_blood_S007SK51_inflammatory_macrophage_DiseaseFree	Myeloid	Macrophage	red	'#A37857'	0.839013
+BP_venous_blood_S00FTN51_alternatively_activated_macrophage_DiseaseFree	Myeloid	Macrophage	red	'#A37857'	0.834561
+BP_cord_blood_S00BHQ51_macrophage_DiseaseFree	Myeloid	Macrophage	red	'#A37857'	0.833598
+BP_cord_blood_S002R551_erythroblast_DiseaseFree	Myeloid	Erythroblast	red	'#FF6700'	0.687063
+BP_cord_blood_S002S351_erythroblast_DiseaseFree	Myeloid	Erythroblast	red	'#FF6700'	0.662201
+BP_cord_blood_S004BT51_CD34negative_CD41positive_CD42positive_megakaryocyte_cell_DiseaseFree	Myeloid	Megakaryocyte	red	'#FFB55C'	0.769784
+BP_cord_blood_S004AV51_CD34negative_CD41positive_CD42positive_megakaryocyte_cell_DiseaseFree	Myeloid	Megakaryocyte	red	'#FFB55C'	0.734593
+BP_cord_blood_C0068L51_CD38negative_naive_B_cell_DiseaseFree	Lymphoid	BCell	blue	'#1FBF82'	0.875925
+BP_cord_blood_C003K951_CD38negative_naive_B_cell_DiseaseFree	Lymphoid	BCell	blue	'#1FBF82'	0.873656
+BP_venous_blood_S001JP51_CD38negative_naive_B_cell_DiseaseFree	Lymphoid	BCell	blue	'#1FBF82'	0.874824
+BP_venous_blood_S01ECGA1_naive_B_cell_DiseaseFree	Lymphoid	BCell	blue	'#1FBF82'	0.849165
+BP_venous_blood_NBC_NC11_41_naive_B_cell_DiseaseFree	Lymphoid	BCell	blue	'#1FBF82'	0.849197
+BP_venous_blood_S00DM851_CD38negative_naive_B_cell_DiseaseFree	Lymphoid	BCell	blue	'#1FBF82'	0.832806
+BP_bone_marrow_G202_plasma_cell_DiseaseFree	Lymphoid	Plasma	blue	'#83FFFF'	0.345463
+BP_venous_blood_NBC_NC11_83_naive_B_cell_DiseaseFree	Lymphoid	BCell	blue	'#1FBF82'	0.801108
+BP_tonsil_GC_T14_10_germinal_center_B_cell_DiseaseFree	Lymphoid	BCell	blue	'#1FBF82'	0.69593
+BP_tonsil_GC_T14_11_germinal_center_B_cell_DiseaseFree	Lymphoid	BCell	blue	'#1FBF82'	0.6575
+BP_tonsil_G201_germinal_center_B_cell_DiseaseFree	Lymphoid	BCell	blue	'#1FBF82'	0.651757
+BP_tonsil_PC_T14_10_plasma_cell_DiseaseFree	Lymphoid	Plasma	blue	'#83FFFF'	0.633029
+BP_tonsil_PC_T12_20_plasma_cell_DiseaseFree	Lymphoid	Plasma	blue	'#83FFFF'	0.619408
+BP_tonsil_PC_T13_1_plasma_cell_DiseaseFree	Lymphoid	Plasma	blue	'#83FFFF'	0.59802
+BP_bone_marrow_bmPCs-V156_plasma_cell_DiseaseFree	Lymphoid	Plasma	blue	'#83FFFF'	0.439273
+BP_venous_blood_C003N351_memory_B_cell_DiseaseFree	Lymphoid	memoryBCell	blue	'#036D03'	0.665365
+BP_venous_blood_S004P151_class_switched_memory_B_cell_DiseaseFree	Lymphoid	memoryBCell	blue	'#036D03'	0.596249
+BP_venous_blood_C003JB51_class_switched_memory_B_cell_DiseaseFree	Lymphoid	memoryBCell	blue	'#036D03'	0.594694
+BP_venous_blood_S017RE51_memory_B_cell_DiseaseFree	Lymphoid	memoryBCell	blue	'#036D03'	0.597418
+BP_venous_blood_csMBC_NC11_41_class_switched_memory_B_cell_DiseaseFree	Lymphoid	memoryBCell	blue	'#036D03'	0.474894
+BP_cord_blood_S00C2F51_CD8positive_alphabeta_T_cell_DiseaseFree	Lymphoid	TCell	blue	'#43B9F9'	0.885816
+BP_cord_blood_C0066P51_CD8positive_alphabeta_T_cell_DiseaseFree	Lymphoid	TCell	blue	'#43B9F9'	0.875117
+BP_venous_blood_S009W451_CD4positive_alphabeta_T_cell_DiseaseFree	Lymphoid	TCell	blue	'#43B9F9'	0.862779
+BP_venous_blood_S001U353_regulatory_T_cell_DiseaseFree	Lymphoid	TCell	blue	'#43B9F9'	0.713506
+BP_venous_blood_S00XTP51_regulatory_T_cell_DiseaseFree	Lymphoid	TCell	blue	'#43B9F9'	0.559222
+BP_venous_blood_S006YC51_central_memory_CD4positive_alphabeta_T_cell_DiseaseFree	Lymphoid	memoryTCell	blue	'#002BFF'	0.684942
+BP_venous_blood_C003VO56_central_memory_CD8positive_alphabeta_T_cell_DiseaseFree	Lymphoid	memoryTCell	blue	'#002BFF'	0.664393
+BP_venous_blood_C005UI52_central_memory_CD8positive_alphabeta_T_cell_DiseaseFree	Lymphoid	memoryTCell	blue	'#002BFF'	0.649649
+BP_venous_blood_S014QS55_central_memory_CD4positive_alphabeta_T_cell_DiseaseFree	Lymphoid	memoryTCell	blue	'#002BFF'	0.623813
+BP_venous_blood_S001U352_effector_memory_CD4positive_alphabeta_T_cell_DiseaseFree	Lymphoid	memoryTCell	blue	'#002BFF'	0.610045
+BP_venous_blood_S002ND51_effector_memory_CD8positive_alphabeta_T_cell_terminally_differentiated_DiseaseFree	Lymphoid	memoryTCell	blue	'#002BFF'	0.611411
+BP_venous_blood_S008H151_CD4positive_alphabeta_T_cell_DiseaseFree	Lymphoid	TCell	blue	'#43B9F9'	0.863386
+BP_venous_blood_S007DD51_CD4positive_alphabeta_T_cell_DiseaseFree	Lymphoid	TCell	blue	'#43B9F9'	0.859963
+BP_venous_blood_S007G756_CD4positive_alphabeta_T_cell_DiseaseFree	Lymphoid	TCell	blue	'#43B9F9'	0.85312
+BP_venous_blood_C003VO55_CD8positive_alphabeta_T_cell_DiseaseFree	Lymphoid	TCell	blue	'#43B9F9'	0.840685
+BP_venous_blood_C00256A1bs_CD8positive_alphabeta_T_cell_DiseaseFree	Lymphoid	TCell	blue	'#43B9F9'	0.799369
+BP_venous_blood_C00256A3bs_effector_memory_CD8positive_alphabeta_T_cell_DiseaseFree	Lymphoid	memoryTCell	blue	'#002BFF'	0.603138
+BP_venous_blood_S014QS51_effector_memory_CD4positive_alphabeta_T_cell_DiseaseFree	Lymphoid	memoryTCell	blue	'#002BFF'	0.522862
+BP_venous_blood_S014WG51_effector_memory_CD8positive_alphabeta_T_cell_DiseaseFree	Lymphoid	memoryTCell	blue	'#002BFF'	0.517503
+BP_venous_blood_S0164R51_effector_memory_CD8positive_alphabeta_T_cell_terminally_differentiated_DiseaseFree	Lymphoid	memoryTCell	blue	'#002BFF'	0.487013
+BP_cord_blood_S01E8O51_cytotoxic_CD56dim_natural_killer_cell_DiseaseFree	Lymphoid	NKCell	blue	'#1A237E'	0.82262
+BP_cord_blood_C0067N51_cytotoxic_CD56dim_natural_killer_cell_DiseaseFree	Lymphoid	NKCell	blue	'#1A237E'	0.821985
+BP_venous_blood_C006G551_cytotoxic_CD56dim_natural_killer_cell_DiseaseFree	Lymphoid	NKCell	blue	'#1A237E'	0.804801
+BP_venous_blood_C002CTA1bs_cytotoxic_CD56dim_natural_killer_cell_DiseaseFree	Lymphoid	NKCell	blue	'#1A237E'	0.788271
+BP_bone_marrow_HPC-V151_hematopoietic_multipotent_progenitor_cell_DiseaseFree	Others	ProgenitorCell	grey	'#82FC56'	0.908601
+BP_bone_marrow_G199_hematopoietic_multipotent_progenitor_cell_DiseaseFree	Others	ProgenitorCell	grey	'#82FC56'	0.905991
+BP_thymus_lymphoid_tissue_NECH0001_3_CD8positive_alphabeta_thymocyte_DiseaseFree	Lymphoid	ProgenitorCell	blue	'#82FC56'	0.858014
+BP_thymus_lymphoid_tissue_NECH0002_1_thymocyte_DiseaseFree	Lymphoid	ProgenitorCell	blue	'#82FC56'	0.893456
+BP_bone_marrow_PreB2C-V152_precursor_B_cell_DiseaseFree	Lymphoid	ProgenitorCell	blue	'#82FC56'	0.877928
+BP_bone_marrow_G200_precursor_lymphocyte_of_B_lineage_DiseaseFree	Lymphoid	ProgenitorCell	blue	'#82FC56'	0.86775
+BP_thymus_lymphoid_tissue_S010S3A1_CD8positive_alphabeta_thymocyte_DiseaseFree	Lymphoid	ProgenitorCell	blue	'#82FC56'	0.853212
+BP_thymus_lymphoid_tissue_NECH0001_1_CD3negative_CD4positive_CD8positive_double_positive_thymocyte_DiseaseFree	Lymphoid	ProgenitorCell	blue	'#82FC56'	0.851556
+BP_thymus_lymphoid_tissue_NECH0001_2_CD4positive_alphabeta_thymocyte_DiseaseFree	Lymphoid	ProgenitorCell	blue	'#82FC56'	0.849857
+BP_thymus_lymphoid_tissue_S01G2SA1_CD3positive_CD4positive_CD8positive_double_positive_thymocyte_DiseaseFree	Lymphoid	ProgenitorCell	blue	'#82FC56'	0.848897
+BP_thymus_lymphoid_tissue_S010Q7A1_CD3positive_CD4positive_CD8positive_double_positive_thymocyte_DiseaseFree	Lymphoid	ProgenitorCell	blue	'#82FC56'	0.847166
+BP_thymus_lymphoid_tissue_S010R5A1_CD4positive_alphabeta_thymocyte_DiseaseFree	Lymphoid	ProgenitorCell	blue	'#82FC56'	0.84492
+BP_thymus_lymphoid_tissue_S010NDA1_CD3negative_CD4positive_CD8positive_double_positive_thymocyte_DiseaseFree	Lymphoid	ProgenitorCell	blue	'#82FC56'	0.842748
+BP_venous_blood_S01GKTA1_osteoclast_DiseaseFree	Myeloid	Osteoclast	red	'#FCE017'	0.819505
+BP_venous_blood_S01GMPA1_osteoclast_DiseaseFree	Myeloid	Osteoclast	red	'#FCE017'	0.791974
+BP_bone_marrow_S0179DA1_precursor_B_cell_AcuteLymphocyticLeukemia	Lymphoid cancer	AcuteLymphocyticLeukemia	green	'#7E2AD8'	0.674791
+BP_bone_marrow_S017E3A1_precursor_B_cell_AcuteLymphocyticLeukemia	Lymphoid cancer	AcuteLymphocyticLeukemia	green	'#7E2AD8'	0.732428
+BP_bone_marrow_S01GRFA1_precursor_B_cell_AcuteLymphocyticLeukemia	Lymphoid cancer	AcuteLymphocyticLeukemia	green	'#7E2AD8'	0.647806
+BP_bone_marrow_S01GSDA1_precursor_B_cell_AcuteLymphocyticLeukemia	Lymphoid cancer	AcuteLymphocyticLeukemia	green	'#7E2AD8'	0.643698
+BP_bone_marrow_S01GTBA1_precursor_B_cell_AcuteLymphocyticLeukemia	Lymphoid cancer	AcuteLymphocyticLeukemia	green	'#7E2AD8'	0.72174
+BP_venous_blood_S017B9A1_precursor_B_cell_AcuteLymphocyticLeukemia	Lymphoid cancer	AcuteLymphocyticLeukemia	green	'#7E2AD8'	0.792788
+BP_venous_blood_S017C7A1_precursor_B_cell_AcuteLymphocyticLeukemia	Lymphoid cancer	AcuteLymphocyticLeukemia	green	'#7E2AD8'	0.78872
+BP_bone_marrow_S004XMA1_myeloid_cell_AcutePromyelocyticLeukemia	Myeloid cancer	AcuteMyeloidLeukemia	orange	'#9AC48A'	0.734381
+BP_bone_marrow_S0050AA1_myeloid_cell_AcutePromyelocyticLeukemia	Myeloid cancer	AcuteMyeloidLeukemia	orange	'#9AC48A'	0.725631
+BP_bone_marrow_S005EJA1_myeloid_cell_AcuteMyeloidLeukemia	Myeloid cancer	AcuteMyeloidLeukemia	orange	'#9AC48A'	0.664139
+BP_bone_marrow_S005FHA1_myeloid_cell_AcuteMyeloidLeukemia	Myeloid cancer	AcuteMyeloidLeukemia	orange	'#9AC48A'	0.798952
+BP_bone_marrow_S008QKA1_myeloid_cell_AcutePromyelocyticLeukemia	Myeloid cancer	AcuteMyeloidLeukemia	orange	'#9AC48A'	0.807986
+BP_bone_marrow_S008X6A1_myeloid_cell_AcuteMyeloidLeukemia	Myeloid cancer	AcuteMyeloidLeukemia	orange	'#9AC48A'	0.75311
+BP_bone_marrow_S00CXRA1_myeloid_cell_AcuteMyeloidLeukemia	Myeloid cancer	AcuteMyeloidLeukemia	orange	'#9AC48A'	0.863451
+BP_bone_marrow_S00CYPA1_myeloid_cell_AcuteMyeloidLeukemia	Myeloid cancer	AcuteMyeloidLeukemia	orange	'#9AC48A'	0.754827
+BP_bone_marrow_S00D0FA1_myeloid_cell_AcuteMyeloidLeukemia	Myeloid cancer	AcuteMyeloidLeukemia	orange	'#9AC48A'	0.709033
+BP_bone_marrow_S013M3A1_myeloid_cell_AcuteMyeloidLeukemia	Myeloid cancer	AcuteMyeloidLeukemia	orange	'#9AC48A'	0.804822
+BP_bone_marrow_S013N1A1_mononuclear_cell_of_bone_marrow_AcuteMyeloidLeukemia	Myeloid cancer	AcuteMyeloidLeukemia	orange	'#9AC48A'	0.794084
+BP_venous_blood_S00CWTA1_myeloid_cell_AcuteMyeloidLeukemia	Myeloid cancer	AcuteMyeloidLeukemia	orange	'#9AC48A'	0.850437
+BP_venous_blood_S00D1DA1_myeloid_cell_AcuteMyeloidLeukemia	Myeloid cancer	AcuteMyeloidLeukemia	orange	'#9AC48A'	0.767229
+BP_venous_blood_S00Y4YA1_myeloid_cell_AcuteMyeloidLeukemia	Myeloid cancer	AcuteMyeloidLeukemia	orange	'#9AC48A'	0.778518
+BP_venous_blood_S00Y6UA1_myeloid_cell_AcuteMyeloidLeukemia	Myeloid cancer	AcuteMyeloidLeukemia	orange	'#9AC48A'	0.637529
+BP_venous_blood_S013PYA1_myeloid_cell_AcuteMyeloidLeukemia	Myeloid cancer	AcuteMyeloidLeukemia	orange	'#9AC48A'	0.717839
+BP_venous_blood_S013RUA1_peripheral_blood_mononuclear_cell_AcuteMyeloidLeukemia	Myeloid cancer	AcuteMyeloidLeukemia	orange	'#9AC48A'	0.775272
+BP_venous_blood_S013SSA1_myeloid_cell_AcuteMyeloidLeukemia	Myeloid cancer	AcuteMyeloidLeukemia	orange	'#9AC48A'	0.745895
+BP_venous_blood_S0145XU1_NA_TcellProlymphocyticLeukemia	Lymphoid cancer	TcellProlymphocyticLeukemia	green	'#E26DDF'	0.609731
+BP_venous_blood_S016KWU1_NA_TcellProlymphocyticLeukemia	Lymphoid cancer	TcellProlymphocyticLeukemia	green	'#E26DDF'	0.433562
+BP_venous_blood_S016MSU1_NA_TcellProlymphocyticLeukemia	Lymphoid cancer	TcellProlymphocyticLeukemia	green	'#E26DDF'	0.571528
+BP_venous_blood_S00D2BA1_myeloid_cell_AcuteMyeloidLeukemia	Myeloid cancer	AcuteMyeloidLeukemia	orange	'#9AC48A'	0.715818
+BP_venous_blood_S00D39A1_myeloid_cell_AcuteMyeloidLeukemia	Myeloid cancer	AcuteMyeloidLeukemia	orange	'#9AC48A'	0.748202
+BP_venous_blood_S00Q7NA1_myeloid_cell_AcuteMyeloidLeukemia	Myeloid cancer	AcuteMyeloidLeukemia	orange	'#9AC48A'	0.625015
+BP_venous_blood_S00XWJA1_myeloid_cell_AcuteMyeloidLeukemia	Myeloid cancer	AcuteMyeloidLeukemia	orange	'#9AC48A'	0.778181
+BP_venous_blood_S00Y05A1_myeloid_cell_AcuteMyeloidLeukemia	Myeloid cancer	AcuteMyeloidLeukemia	orange	'#9AC48A'	0.676819
+BP_venous_blood_S00Y13A1_myeloid_cell_AcuteMyeloidLeukemia	Myeloid cancer	AcuteMyeloidLeukemia	orange	'#9AC48A'	0.790653
+BP_venous_blood_S01FG4A1_NA_ChronicLymphocyticLeukemia	Lymphoid cancer	ChronicLymphocyticLeukemia	green	'#A983F2'	0.432687
+BP_venous_blood_S01FE8A1_NA_MantleCellLymphoma	Lymphoid cancer	MantleCellLymphoma	green	'#FAC0FF'	0.394302
+BP_venous_blood_S01FF6A1_NA_MantleCellLymphoma	Lymphoid cancer	MantleCellLymphoma	green	'#FAC0FF'	0.408582
+BP_venous_blood_S01FH2A1_NA_MantleCellLymphoma	Lymphoid cancer	MantleCellLymphoma	green	'#FAC0FF'	0.559808
+BP_venous_blood_S01FJZA1_NA_MantleCellLymphoma	Lymphoid cancer	MantleCellLymphoma	green	'#FAC0FF'	0.263101
+BP_venous_blood_S01FKXA1_NA_MantleCellLymphoma	Lymphoid cancer	MantleCellLymphoma	green	'#FAC0FF'	0.507087
+BP_bone_marrow_G203_plasma_cell_MultipleMyeloma	Lymphoid cancer	MultipleMyeloma	green	'#C1B62B'	0.533565
+BP_bone_marrow_G204_plasma_cell_MultipleMyeloma	Lymphoid cancer	MultipleMyeloma	green	'#C1B62B'	0.151964
+BP_bone_marrow_S00XCMA1_plasma_cell_MultipleMyeloma	Lymphoid cancer	MultipleMyeloma	green	'#C1B62B'	0.143457
+BP_bone_marrow_S00XDKU1_plasma_cell_MultipleMyeloma	Lymphoid cancer	MultipleMyeloma	green	'#C1B62B'	0.111914
+BP_venous_blood_S00AYXU1_NA_ChronicLymphocyticLeukemia	Lymphoid cancer	ChronicLymphocyticLeukemia	green	'#A983F2'	0.366269
+BP_venous_blood_S00B0NU1_NA_ChronicLymphocyticLeukemia	Lymphoid cancer	ChronicLymphocyticLeukemia	green	'#A983F2'	0.586407
+BP_venous_blood_S00B1LU1_NA_ChronicLymphocyticLeukemia	Lymphoid cancer	ChronicLymphocyticLeukemia	green	'#A983F2'	0.472465
+BP_venous_blood_S00B2JA1_NA_ChronicLymphocyticLeukemia	Lymphoid cancer	ChronicLymphocyticLeukemia	green	'#A983F2'	0.415724
+BP_venous_blood_S00GPRA1_NA_ChronicLymphocyticLeukemia	Lymphoid cancer	ChronicLymphocyticLeukemia	green	'#A983F2'	0.442162
+BP_bone_marrow_S00XEIU1_plasma_cell_MultipleMyeloma	Lymphoid cancer	MultipleMyeloma	green	'#C1B62B'	0.24374
